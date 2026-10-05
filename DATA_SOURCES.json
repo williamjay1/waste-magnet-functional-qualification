@@ -1,0 +1,55 @@
+[
+  {
+    "files": "supplement/functional_qualification/material_lineages.csv; device_reference_points.csv; device_demonstrations.csv; route_process_evidence.csv",
+    "source": "Schoenfeldt et al. 2025 and Lagos et al. 2025",
+    "source_urls": [
+      "https://doi.org/10.1002/adem.202402815",
+      "https://doi.org/10.1051/metal/2025075"
+    ],
+    "locators": "Schoenfeldt Tables 3,5,6,7,8 and device results/Fig.9; Lagos Tables 1,2,4",
+    "licence": "Published articles CC BY 4.0; numerical transcriptions attributed to original authors.",
+    "access_date": "2026-10-02",
+    "coverage": "6 HPMS lineages + 1 elevator parent with 3 branches; not EU population data",
+    "processing": "Published values transcribed; sums computed; dashes contribute zero only to reported sum; censored Hcj retained.",
+    "limits": "No raw replicates, exact replicate variances or finished mass yields obtained."
+  },
+  {
+    "files": "supplement/data/weee_collection_elements_country_year.csv",
+    "source": "FutuRaM WEEE v2",
+    "source_urls": [
+      "https://doi.org/10.5281/zenodo.20607366"
+    ],
+    "locators": "WEEE_SF_cmp_version2.csv; WEEE_collected / magnetPermanent; EU27 ISO3; parent blank Layers3/4; separate Nd/Pr/Dy children",
+    "licence": "CC BY 4.0, original dataset authors retain rights; cite the Zenodo record metadata.",
+    "snapshot": "2026-09-30",
+    "coverage": "2187 country/year/scenario keys, EU27, 2024-2050, BAU/CIR/REC",
+    "processing": "Mg equals tonnes; six WEEE categories summed once; stock and downstream rows excluded.",
+    "limits": "Source-model outputs; generic magnets are not an NdFeB assay or function-qualified population."
+  },
+  {
+    "files": "supplement/data/wind_collected_ndfeb_and_ree3.csv",
+    "source": "FutuRaM wind v1",
+    "source_urls": [
+      "https://doi.org/10.5281/zenodo.20407024"
+    ],
+    "locators": "CDW_WTB_RM_cmp_version20.csv; EU27 / CDW_collected / wtbPermanentMagnet / magnetAlloysNdFeB",
+    "licence": "CC BY 4.0, original dataset authors retain rights; cite the Zenodo record metadata.",
+    "snapshot": "2026-09-30",
+    "coverage": "81 EU27-aggregate year/scenario keys, 2024-2050, BAU/CIR/REC",
+    "processing": "kg / 1000; parent separated from Nd/Pr/Dy; not distributed across countries.",
+    "limits": "Model alloy coding is not assay, geometry, function or measured retention."
+  },
+  {
+    "files": "NOT DISTRIBUTED: raw GISCO geometry, derived country caps and distance matrix",
+    "source": "Eurostat GISCO NUTS0 2024, 1:1 million, EPSG4326",
+    "source_urls": [
+      "https://gisco-services.ec.europa.eu/distribution/v2/nuts/geojson/NUTS_RG_01M_2024_4326_LEVL_0.geojson",
+      "https://ec.europa.eu/eurostat/web/gisco/geodata/statistical-units"
+    ],
+    "licence": "GISCO-specific noncommercial use conditions; source acknowledgement required; not MIT/CC BY by this repository.",
+    "copyright": "Administrative boundaries: copyright EuroGeographics.",
+    "coverage": "27 EU countries, complete geometry including outlying territories",
+    "processing": "prepare_geometry.py reads official/user-downloaded geometry and regenerates caps/distances locally.",
+    "limits": "Candidate representative points, not factories; spherical bounds, not road transport distances."
+  }
+]

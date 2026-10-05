@@ -1,0 +1,13 @@
+study,lineage,stage,process_field,value,unit,qualification_limit,locator
+S2025,ALL,P,hydrogenation pressure,5,bar,no source-wide finished yield,section 2.2
+S2025,ALL,P,hydrogenation temperature,25,degC,no service temperature qualification,section 2.2
+S2025,ALL,P,jet-milled D50 range,3.24-5.70,um,not an individual-source particle label,section 2.4
+S2025,PUMP,source,oxygen,0.072,wt pct,reported endpoint not universal threshold,section 2.3
+S2025,WIND,source,oxygen,0.127,wt pct,reported endpoint not universal threshold,section 2.3
+L2025,EM,powder HD20,oxygen,4700 +/- 300,ppm,not finished magnet measurement,Table 2
+L2025,EM,powder HD20,hydrogen,5000 +/- 200,ppm,not finished magnet measurement,Table 2
+L2025,EM,powder HD-D20,oxygen,1870 +/- 30,ppm,not finished magnet measurement,Table 2
+L2025,EM,powder HD-D20,hydrogen,24 +/- 1,ppm,not finished magnet measurement,Table 2
+L2025,EM,powder HD-D3,oxygen,1950 +/- 50,ppm,not finished magnet measurement,Table 2
+L2025,EM,powder HD-D3,hydrogen,28 +/- 1,ppm,not finished magnet measurement,Table 2
+L2025,EM,powder,material recovered below 425 um,100,pct,intermediate powder recovery not finished yield,section 3.1

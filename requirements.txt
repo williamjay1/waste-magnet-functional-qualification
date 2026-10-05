@@ -1,0 +1,7 @@
+numpy==2.5.1
+pandas==3.0.5
+scipy==1.18.0
+matplotlib==3.11.1
+shapely==2.1.2
+PyMuPDF>=1.26,<2
+Pillow>=11,<13

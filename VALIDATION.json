@@ -1,0 +1,44 @@
+{
+  "audit_date": "2026-10-05",
+  "status": "PASS",
+  "material_table_numeric_and_label_comparisons": 8,
+  "independent_decimal_checks": {
+    "status": "PASS",
+    "independent_decimal_reference_checks": 27,
+    "regional_equation_residual_max": 1.18500073633e-16,
+    "nonduplicating_candidate_allocation_checks": "PASS: 120 uncertified / 0 strict reference / 3 recorded endpoint combinations",
+    "published_table_scope_checks": "7 parent lineages / 2 publications; no finished yields; traction censor retained",
+    "meaning": "implementation and extraction arithmetic verified, not population or service validation"
+  },
+  "regional_reproduction": {
+    "comparisons": {
+      "robust_network_frontiers.csv": {
+        "rows": 162,
+        "max_absolute_gap_t_y": 3.637978807091713e-12
+      },
+      "element_constrained_network_capacity.csv": {
+        "rows": 108,
+        "max_absolute_gap_t_y": 2.2737367544323206e-13
+      },
+      "element_quality_network_joint_frontiers.csv": {
+        "rows": 1728,
+        "max_absolute_gap_t_y": 4.547473508864641e-13
+      }
+    },
+    "cut_capacity_lp_checks": 288,
+    "max_cut_lp_gap_t_y": 2.2737367544323206e-13,
+    "numpy": "2.5.1",
+    "pandas": "3.0.5",
+    "scipy": "1.18.0"
+  },
+  "fresh_official_geometry": {
+    "source_url": "https://gisco-services.ec.europa.eu/distribution/v2/nuts/geojson/NUTS_RG_01M_2024_4326_LEVL_0.geojson",
+    "source_sha256": "a4bd4c6f61943e8b76e0286adf1074137dd0a3eee2896088d9b4e22d567272b5",
+    "frozen_raw_sha256": "bfb21033b246f8d22104ec736396a656594a6a9780208e311b911d0afcc5a4d0",
+    "canonical_eu27_geometry_sha256": "f8fd6115d0ac7125525c567f12c4dcfc157fcb0b5aba87839e399c06c60d21e6",
+    "canonical_geometry_matches_frozen_input": true
+  },
+  "no_manuscript_or_publisher_fulltext_published": true,
+  "no_geometry_redistributed": true,
+  "limitation": "Implementation/arithmetic checks; not independent experiments, EU qualification rates, service certification or journal acceptance."
+}

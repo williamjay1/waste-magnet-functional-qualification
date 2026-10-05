@@ -1,0 +1,25 @@
+{
+  "source_process_rows": 9,
+  "source_lineages": 7,
+  "independent_publications": 2,
+  "censored_Hcj_ratios_missing": 1,
+  "finished_mass_yields_known": 0,
+  "regional_legacy_recompute_max_abs_t_y": 0.0,
+  "independent_lp_cases": 648,
+  "lp_max_abs_t_y": 0.0,
+  "inputs_sha256": {
+    "device_demonstrations.csv": "9c37e2c039ae5c40c9dfd3d82c413bb855c94e03af79f8c0aa7a7ecf21d5750a",
+    "device_reference_points.csv": "68205aee53e3c4bb21899904d452f3161d472141c466bbeb48c4fcbcceda9f85",
+    "material_lineages.csv": "5c4f44a0d2fec82b54e045832e3161f1da2cfdf5b944612d2ddbb12dadce4702",
+    "route_process_evidence.csv": "b55dd0c1d973bdfffc4430c30b0a2d3582e5973622599c85afe60fc6a64ee46c"
+  },
+  "software": {
+    "python": "3.12.10 (tags/v3.12.10:0cc8128, Apr  8 2025, 12:21:36) [MSC v.1943 64 bit (AMD64)]",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "numpy": "2.5.1",
+    "pandas": "3.0.5",
+    "scipy": "1.18.0",
+    "matplotlib": "3.11.1"
+  },
+  "scope": "published point screens and conditional bounds; no EU qualification prevalence or uncertainty distribution"
+}

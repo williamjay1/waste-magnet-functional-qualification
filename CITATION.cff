@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Cite this versioned software repository and the original article/dataset sources. A Zenodo DOI has not yet been generated."
+type: software
+title: "Waste magnet functional qualification: reproducible secondary analysis"
+authors:
+  - name: "williamjay1"
+version: "1.0.0"
+date-released: "2026-10-05"
+repository-code: "https://github.com/williamjay1/waste-magnet-functional-qualification"
+license: MIT
+abstract: "Original software and attributed public inputs for material-reference screens, nonduplicating source-candidate allocation and conditional European output bounds. Repository maintainer is not a statement of manuscript authorship. Data and style files have separate rights."

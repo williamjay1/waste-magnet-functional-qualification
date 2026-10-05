@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "independent_decimal_reference_checks": 27,
+  "regional_equation_residual_max": 1.18500073633e-16,
+  "nonduplicating_candidate_allocation_checks": "PASS: 120 uncertified / 0 strict reference / 3 recorded endpoint combinations",
+  "published_table_scope_checks": "7 parent lineages / 2 publications; no finished yields; traction censor retained",
+  "meaning": "implementation and extraction arithmetic verified, not population or service validation"
+}

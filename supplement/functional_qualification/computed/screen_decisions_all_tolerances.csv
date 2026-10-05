@@ -1,0 +1,865 @@
+study,lineage,process,stage,device,relaxation_pct,reference_screen_pass,chemistry20_pass,chemistry30_pass,total_ree30_pass
+S2025,MRI,HPMS anisotropic resintering,before,Pedelec,0,False,True,False,False
+S2025,MRI,HPMS anisotropic resintering,before,Pedelec,1,False,True,False,False
+S2025,MRI,HPMS anisotropic resintering,before,Pedelec,2,False,True,False,False
+S2025,MRI,HPMS anisotropic resintering,before,Pedelec,3,False,True,False,False
+S2025,MRI,HPMS anisotropic resintering,before,Pedelec,4,False,True,False,False
+S2025,MRI,HPMS anisotropic resintering,before,Pedelec,5,False,True,False,False
+S2025,MRI,HPMS anisotropic resintering,before,Pedelec,6,False,True,False,False
+S2025,MRI,HPMS anisotropic resintering,before,Pedelec,7,False,True,False,False
+S2025,MRI,HPMS anisotropic resintering,before,Pedelec,8,False,True,False,False
+S2025,MRI,HPMS anisotropic resintering,before,Pedelec,9,False,True,False,False
+S2025,MRI,HPMS anisotropic resintering,before,Pedelec,10,False,True,False,False
+S2025,MRI,HPMS anisotropic resintering,before,Pedelec,11,False,True,False,False
+S2025,MRI,HPMS anisotropic resintering,before,Pedelec,12,False,True,False,False
+S2025,MRI,HPMS anisotropic resintering,before,Pedelec,13,False,True,False,False
+S2025,MRI,HPMS anisotropic resintering,before,Pedelec,14,False,True,False,False
+S2025,MRI,HPMS anisotropic resintering,before,Pedelec,15,False,True,False,False
+S2025,MRI,HPMS anisotropic resintering,after,Pedelec,0,False,True,False,False
+S2025,MRI,HPMS anisotropic resintering,after,Pedelec,1,False,True,False,False
+S2025,MRI,HPMS anisotropic resintering,after,Pedelec,2,False,True,False,False
+S2025,MRI,HPMS anisotropic resintering,after,Pedelec,3,False,True,False,False
+S2025,MRI,HPMS anisotropic resintering,after,Pedelec,4,False,True,False,False
+S2025,MRI,HPMS anisotropic resintering,after,Pedelec,5,False,True,False,False
+S2025,MRI,HPMS anisotropic resintering,after,Pedelec,6,False,True,False,False
+S2025,MRI,HPMS anisotropic resintering,after,Pedelec,7,False,True,False,False
+S2025,MRI,HPMS anisotropic resintering,after,Pedelec,8,False,True,False,False
+S2025,MRI,HPMS anisotropic resintering,after,Pedelec,9,False,True,False,False
+S2025,MRI,HPMS anisotropic resintering,after,Pedelec,10,False,True,False,False
+S2025,MRI,HPMS anisotropic resintering,after,Pedelec,11,False,True,False,False
+S2025,MRI,HPMS anisotropic resintering,after,Pedelec,12,False,True,False,False
+S2025,MRI,HPMS anisotropic resintering,after,Pedelec,13,False,True,False,False
+S2025,MRI,HPMS anisotropic resintering,after,Pedelec,14,False,True,False,False
+S2025,MRI,HPMS anisotropic resintering,after,Pedelec,15,True,True,False,False
+S2025,MRI,HPMS anisotropic resintering,before,eScooter,0,False,True,False,False
+S2025,MRI,HPMS anisotropic resintering,before,eScooter,1,False,True,False,False
+S2025,MRI,HPMS anisotropic resintering,before,eScooter,2,False,True,False,False
+S2025,MRI,HPMS anisotropic resintering,before,eScooter,3,False,True,False,False
+S2025,MRI,HPMS anisotropic resintering,before,eScooter,4,False,True,False,False
+S2025,MRI,HPMS anisotropic resintering,before,eScooter,5,False,True,False,False
+S2025,MRI,HPMS anisotropic resintering,before,eScooter,6,False,True,False,False
+S2025,MRI,HPMS anisotropic resintering,before,eScooter,7,False,True,False,False
+S2025,MRI,HPMS anisotropic resintering,before,eScooter,8,False,True,False,False
+S2025,MRI,HPMS anisotropic resintering,before,eScooter,9,False,True,False,False
+S2025,MRI,HPMS anisotropic resintering,before,eScooter,10,False,True,False,False
+S2025,MRI,HPMS anisotropic resintering,before,eScooter,11,False,True,False,False
+S2025,MRI,HPMS anisotropic resintering,before,eScooter,12,False,True,False,False
+S2025,MRI,HPMS anisotropic resintering,before,eScooter,13,False,True,False,False
+S2025,MRI,HPMS anisotropic resintering,before,eScooter,14,True,True,False,False
+S2025,MRI,HPMS anisotropic resintering,before,eScooter,15,True,True,False,False
+S2025,MRI,HPMS anisotropic resintering,after,eScooter,0,False,True,False,False
+S2025,MRI,HPMS anisotropic resintering,after,eScooter,1,False,True,False,False
+S2025,MRI,HPMS anisotropic resintering,after,eScooter,2,False,True,False,False
+S2025,MRI,HPMS anisotropic resintering,after,eScooter,3,False,True,False,False
+S2025,MRI,HPMS anisotropic resintering,after,eScooter,4,False,True,False,False
+S2025,MRI,HPMS anisotropic resintering,after,eScooter,5,False,True,False,False
+S2025,MRI,HPMS anisotropic resintering,after,eScooter,6,False,True,False,False
+S2025,MRI,HPMS anisotropic resintering,after,eScooter,7,False,True,False,False
+S2025,MRI,HPMS anisotropic resintering,after,eScooter,8,False,True,False,False
+S2025,MRI,HPMS anisotropic resintering,after,eScooter,9,True,True,False,False
+S2025,MRI,HPMS anisotropic resintering,after,eScooter,10,True,True,False,False
+S2025,MRI,HPMS anisotropic resintering,after,eScooter,11,True,True,False,False
+S2025,MRI,HPMS anisotropic resintering,after,eScooter,12,True,True,False,False
+S2025,MRI,HPMS anisotropic resintering,after,eScooter,13,True,True,False,False
+S2025,MRI,HPMS anisotropic resintering,after,eScooter,14,True,True,False,False
+S2025,MRI,HPMS anisotropic resintering,after,eScooter,15,True,True,False,False
+S2025,MRI,HPMS anisotropic resintering,before,Hoverboard,0,True,True,False,False
+S2025,MRI,HPMS anisotropic resintering,before,Hoverboard,1,True,True,False,False
+S2025,MRI,HPMS anisotropic resintering,before,Hoverboard,2,True,True,False,False
+S2025,MRI,HPMS anisotropic resintering,before,Hoverboard,3,True,True,False,False
+S2025,MRI,HPMS anisotropic resintering,before,Hoverboard,4,True,True,False,False
+S2025,MRI,HPMS anisotropic resintering,before,Hoverboard,5,True,True,False,False
+S2025,MRI,HPMS anisotropic resintering,before,Hoverboard,6,True,True,False,False
+S2025,MRI,HPMS anisotropic resintering,before,Hoverboard,7,True,True,False,False
+S2025,MRI,HPMS anisotropic resintering,before,Hoverboard,8,True,True,False,False
+S2025,MRI,HPMS anisotropic resintering,before,Hoverboard,9,True,True,False,False
+S2025,MRI,HPMS anisotropic resintering,before,Hoverboard,10,True,True,False,False
+S2025,MRI,HPMS anisotropic resintering,before,Hoverboard,11,True,True,False,False
+S2025,MRI,HPMS anisotropic resintering,before,Hoverboard,12,True,True,False,False
+S2025,MRI,HPMS anisotropic resintering,before,Hoverboard,13,True,True,False,False
+S2025,MRI,HPMS anisotropic resintering,before,Hoverboard,14,True,True,False,False
+S2025,MRI,HPMS anisotropic resintering,before,Hoverboard,15,True,True,False,False
+S2025,MRI,HPMS anisotropic resintering,after,Hoverboard,0,True,True,False,False
+S2025,MRI,HPMS anisotropic resintering,after,Hoverboard,1,True,True,False,False
+S2025,MRI,HPMS anisotropic resintering,after,Hoverboard,2,True,True,False,False
+S2025,MRI,HPMS anisotropic resintering,after,Hoverboard,3,True,True,False,False
+S2025,MRI,HPMS anisotropic resintering,after,Hoverboard,4,True,True,False,False
+S2025,MRI,HPMS anisotropic resintering,after,Hoverboard,5,True,True,False,False
+S2025,MRI,HPMS anisotropic resintering,after,Hoverboard,6,True,True,False,False
+S2025,MRI,HPMS anisotropic resintering,after,Hoverboard,7,True,True,False,False
+S2025,MRI,HPMS anisotropic resintering,after,Hoverboard,8,True,True,False,False
+S2025,MRI,HPMS anisotropic resintering,after,Hoverboard,9,True,True,False,False
+S2025,MRI,HPMS anisotropic resintering,after,Hoverboard,10,True,True,False,False
+S2025,MRI,HPMS anisotropic resintering,after,Hoverboard,11,True,True,False,False
+S2025,MRI,HPMS anisotropic resintering,after,Hoverboard,12,True,True,False,False
+S2025,MRI,HPMS anisotropic resintering,after,Hoverboard,13,True,True,False,False
+S2025,MRI,HPMS anisotropic resintering,after,Hoverboard,14,True,True,False,False
+S2025,MRI,HPMS anisotropic resintering,after,Hoverboard,15,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,before,Pedelec,0,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,before,Pedelec,1,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,before,Pedelec,2,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,before,Pedelec,3,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,before,Pedelec,4,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,before,Pedelec,5,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,before,Pedelec,6,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,before,Pedelec,7,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,before,Pedelec,8,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,before,Pedelec,9,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,before,Pedelec,10,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,before,Pedelec,11,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,before,Pedelec,12,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,before,Pedelec,13,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,before,Pedelec,14,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,before,Pedelec,15,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,after,Pedelec,0,False,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,after,Pedelec,1,False,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,after,Pedelec,2,False,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,after,Pedelec,3,False,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,after,Pedelec,4,False,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,after,Pedelec,5,False,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,after,Pedelec,6,False,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,after,Pedelec,7,False,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,after,Pedelec,8,False,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,after,Pedelec,9,False,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,after,Pedelec,10,False,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,after,Pedelec,11,False,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,after,Pedelec,12,False,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,after,Pedelec,13,False,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,after,Pedelec,14,False,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,after,Pedelec,15,False,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,before,eScooter,0,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,before,eScooter,1,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,before,eScooter,2,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,before,eScooter,3,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,before,eScooter,4,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,before,eScooter,5,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,before,eScooter,6,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,before,eScooter,7,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,before,eScooter,8,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,before,eScooter,9,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,before,eScooter,10,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,before,eScooter,11,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,before,eScooter,12,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,before,eScooter,13,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,before,eScooter,14,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,before,eScooter,15,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,after,eScooter,0,False,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,after,eScooter,1,False,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,after,eScooter,2,False,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,after,eScooter,3,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,after,eScooter,4,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,after,eScooter,5,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,after,eScooter,6,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,after,eScooter,7,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,after,eScooter,8,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,after,eScooter,9,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,after,eScooter,10,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,after,eScooter,11,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,after,eScooter,12,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,after,eScooter,13,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,after,eScooter,14,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,after,eScooter,15,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,before,Hoverboard,0,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,before,Hoverboard,1,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,before,Hoverboard,2,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,before,Hoverboard,3,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,before,Hoverboard,4,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,before,Hoverboard,5,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,before,Hoverboard,6,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,before,Hoverboard,7,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,before,Hoverboard,8,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,before,Hoverboard,9,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,before,Hoverboard,10,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,before,Hoverboard,11,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,before,Hoverboard,12,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,before,Hoverboard,13,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,before,Hoverboard,14,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,before,Hoverboard,15,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,after,Hoverboard,0,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,after,Hoverboard,1,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,after,Hoverboard,2,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,after,Hoverboard,3,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,after,Hoverboard,4,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,after,Hoverboard,5,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,after,Hoverboard,6,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,after,Hoverboard,7,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,after,Hoverboard,8,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,after,Hoverboard,9,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,after,Hoverboard,10,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,after,Hoverboard,11,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,after,Hoverboard,12,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,after,Hoverboard,13,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,after,Hoverboard,14,True,True,False,False
+S2025,PUMP,HPMS anisotropic resintering,after,Hoverboard,15,True,True,False,False
+S2025,WIND,HPMS anisotropic resintering,before,Pedelec,0,False,True,True,True
+S2025,WIND,HPMS anisotropic resintering,before,Pedelec,1,False,True,True,True
+S2025,WIND,HPMS anisotropic resintering,before,Pedelec,2,False,True,True,True
+S2025,WIND,HPMS anisotropic resintering,before,Pedelec,3,False,True,True,True
+S2025,WIND,HPMS anisotropic resintering,before,Pedelec,4,False,True,True,True
+S2025,WIND,HPMS anisotropic resintering,before,Pedelec,5,False,True,True,True
+S2025,WIND,HPMS anisotropic resintering,before,Pedelec,6,False,True,True,True
+S2025,WIND,HPMS anisotropic resintering,before,Pedelec,7,False,True,True,True
+S2025,WIND,HPMS anisotropic resintering,before,Pedelec,8,False,True,True,True
+S2025,WIND,HPMS anisotropic resintering,before,Pedelec,9,False,True,True,True
+S2025,WIND,HPMS anisotropic resintering,before,Pedelec,10,True,True,True,True
+S2025,WIND,HPMS anisotropic resintering,before,Pedelec,11,True,True,True,True
+S2025,WIND,HPMS anisotropic resintering,before,Pedelec,12,True,True,True,True
+S2025,WIND,HPMS anisotropic resintering,before,Pedelec,13,True,True,True,True
+S2025,WIND,HPMS anisotropic resintering,before,Pedelec,14,True,True,True,True
+S2025,WIND,HPMS anisotropic resintering,before,Pedelec,15,True,True,True,True
+S2025,WIND,HPMS anisotropic resintering,after,Pedelec,0,False,True,True,True
+S2025,WIND,HPMS anisotropic resintering,after,Pedelec,1,False,True,True,True
+S2025,WIND,HPMS anisotropic resintering,after,Pedelec,2,False,True,True,True
+S2025,WIND,HPMS anisotropic resintering,after,Pedelec,3,False,True,True,True
+S2025,WIND,HPMS anisotropic resintering,after,Pedelec,4,False,True,True,True
+S2025,WIND,HPMS anisotropic resintering,after,Pedelec,5,False,True,True,True
+S2025,WIND,HPMS anisotropic resintering,after,Pedelec,6,False,True,True,True
+S2025,WIND,HPMS anisotropic resintering,after,Pedelec,7,False,True,True,True
+S2025,WIND,HPMS anisotropic resintering,after,Pedelec,8,False,True,True,True
+S2025,WIND,HPMS anisotropic resintering,after,Pedelec,9,False,True,True,True
+S2025,WIND,HPMS anisotropic resintering,after,Pedelec,10,False,True,True,True
+S2025,WIND,HPMS anisotropic resintering,after,Pedelec,11,False,True,True,True
+S2025,WIND,HPMS anisotropic resintering,after,Pedelec,12,False,True,True,True
+S2025,WIND,HPMS anisotropic resintering,after,Pedelec,13,False,True,True,True
+S2025,WIND,HPMS anisotropic resintering,after,Pedelec,14,False,True,True,True
+S2025,WIND,HPMS anisotropic resintering,after,Pedelec,15,False,True,True,True
+S2025,WIND,HPMS anisotropic resintering,before,eScooter,0,True,True,True,True
+S2025,WIND,HPMS anisotropic resintering,before,eScooter,1,True,True,True,True
+S2025,WIND,HPMS anisotropic resintering,before,eScooter,2,True,True,True,True
+S2025,WIND,HPMS anisotropic resintering,before,eScooter,3,True,True,True,True
+S2025,WIND,HPMS anisotropic resintering,before,eScooter,4,True,True,True,True
+S2025,WIND,HPMS anisotropic resintering,before,eScooter,5,True,True,True,True
+S2025,WIND,HPMS anisotropic resintering,before,eScooter,6,True,True,True,True
+S2025,WIND,HPMS anisotropic resintering,before,eScooter,7,True,True,True,True
+S2025,WIND,HPMS anisotropic resintering,before,eScooter,8,True,True,True,True
+S2025,WIND,HPMS anisotropic resintering,before,eScooter,9,True,True,True,True
+S2025,WIND,HPMS anisotropic resintering,before,eScooter,10,True,True,True,True
+S2025,WIND,HPMS anisotropic resintering,before,eScooter,11,True,True,True,True
+S2025,WIND,HPMS anisotropic resintering,before,eScooter,12,True,True,True,True
+S2025,WIND,HPMS anisotropic resintering,before,eScooter,13,True,True,True,True
+S2025,WIND,HPMS anisotropic resintering,before,eScooter,14,True,True,True,True
+S2025,WIND,HPMS anisotropic resintering,before,eScooter,15,True,True,True,True
+S2025,WIND,HPMS anisotropic resintering,after,eScooter,0,False,True,True,True
+S2025,WIND,HPMS anisotropic resintering,after,eScooter,1,False,True,True,True
+S2025,WIND,HPMS anisotropic resintering,after,eScooter,2,False,True,True,True
+S2025,WIND,HPMS anisotropic resintering,after,eScooter,3,False,True,True,True
+S2025,WIND,HPMS anisotropic resintering,after,eScooter,4,False,True,True,True
+S2025,WIND,HPMS anisotropic resintering,after,eScooter,5,False,True,True,True
+S2025,WIND,HPMS anisotropic resintering,after,eScooter,6,False,True,True,True
+S2025,WIND,HPMS anisotropic resintering,after,eScooter,7,False,True,True,True
+S2025,WIND,HPMS anisotropic resintering,after,eScooter,8,False,True,True,True
+S2025,WIND,HPMS anisotropic resintering,after,eScooter,9,False,True,True,True
+S2025,WIND,HPMS anisotropic resintering,after,eScooter,10,False,True,True,True
+S2025,WIND,HPMS anisotropic resintering,after,eScooter,11,False,True,True,True
+S2025,WIND,HPMS anisotropic resintering,after,eScooter,12,False,True,True,True
+S2025,WIND,HPMS anisotropic resintering,after,eScooter,13,True,True,True,True
+S2025,WIND,HPMS anisotropic resintering,after,eScooter,14,True,True,True,True
+S2025,WIND,HPMS anisotropic resintering,after,eScooter,15,True,True,True,True
+S2025,WIND,HPMS anisotropic resintering,before,Hoverboard,0,True,True,True,True
+S2025,WIND,HPMS anisotropic resintering,before,Hoverboard,1,True,True,True,True
+S2025,WIND,HPMS anisotropic resintering,before,Hoverboard,2,True,True,True,True
+S2025,WIND,HPMS anisotropic resintering,before,Hoverboard,3,True,True,True,True
+S2025,WIND,HPMS anisotropic resintering,before,Hoverboard,4,True,True,True,True
+S2025,WIND,HPMS anisotropic resintering,before,Hoverboard,5,True,True,True,True
+S2025,WIND,HPMS anisotropic resintering,before,Hoverboard,6,True,True,True,True
+S2025,WIND,HPMS anisotropic resintering,before,Hoverboard,7,True,True,True,True
+S2025,WIND,HPMS anisotropic resintering,before,Hoverboard,8,True,True,True,True
+S2025,WIND,HPMS anisotropic resintering,before,Hoverboard,9,True,True,True,True
+S2025,WIND,HPMS anisotropic resintering,before,Hoverboard,10,True,True,True,True
+S2025,WIND,HPMS anisotropic resintering,before,Hoverboard,11,True,True,True,True
+S2025,WIND,HPMS anisotropic resintering,before,Hoverboard,12,True,True,True,True
+S2025,WIND,HPMS anisotropic resintering,before,Hoverboard,13,True,True,True,True
+S2025,WIND,HPMS anisotropic resintering,before,Hoverboard,14,True,True,True,True
+S2025,WIND,HPMS anisotropic resintering,before,Hoverboard,15,True,True,True,True
+S2025,WIND,HPMS anisotropic resintering,after,Hoverboard,0,True,True,True,True
+S2025,WIND,HPMS anisotropic resintering,after,Hoverboard,1,True,True,True,True
+S2025,WIND,HPMS anisotropic resintering,after,Hoverboard,2,True,True,True,True
+S2025,WIND,HPMS anisotropic resintering,after,Hoverboard,3,True,True,True,True
+S2025,WIND,HPMS anisotropic resintering,after,Hoverboard,4,True,True,True,True
+S2025,WIND,HPMS anisotropic resintering,after,Hoverboard,5,True,True,True,True
+S2025,WIND,HPMS anisotropic resintering,after,Hoverboard,6,True,True,True,True
+S2025,WIND,HPMS anisotropic resintering,after,Hoverboard,7,True,True,True,True
+S2025,WIND,HPMS anisotropic resintering,after,Hoverboard,8,True,True,True,True
+S2025,WIND,HPMS anisotropic resintering,after,Hoverboard,9,True,True,True,True
+S2025,WIND,HPMS anisotropic resintering,after,Hoverboard,10,True,True,True,True
+S2025,WIND,HPMS anisotropic resintering,after,Hoverboard,11,True,True,True,True
+S2025,WIND,HPMS anisotropic resintering,after,Hoverboard,12,True,True,True,True
+S2025,WIND,HPMS anisotropic resintering,after,Hoverboard,13,True,True,True,True
+S2025,WIND,HPMS anisotropic resintering,after,Hoverboard,14,True,True,True,True
+S2025,WIND,HPMS anisotropic resintering,after,Hoverboard,15,True,True,True,True
+S2025,PS,HPMS anisotropic resintering,before,Pedelec,0,False,True,False,True
+S2025,PS,HPMS anisotropic resintering,before,Pedelec,1,False,True,False,True
+S2025,PS,HPMS anisotropic resintering,before,Pedelec,2,False,True,False,True
+S2025,PS,HPMS anisotropic resintering,before,Pedelec,3,False,True,False,True
+S2025,PS,HPMS anisotropic resintering,before,Pedelec,4,False,True,False,True
+S2025,PS,HPMS anisotropic resintering,before,Pedelec,5,False,True,False,True
+S2025,PS,HPMS anisotropic resintering,before,Pedelec,6,False,True,False,True
+S2025,PS,HPMS anisotropic resintering,before,Pedelec,7,False,True,False,True
+S2025,PS,HPMS anisotropic resintering,before,Pedelec,8,False,True,False,True
+S2025,PS,HPMS anisotropic resintering,before,Pedelec,9,False,True,False,True
+S2025,PS,HPMS anisotropic resintering,before,Pedelec,10,False,True,False,True
+S2025,PS,HPMS anisotropic resintering,before,Pedelec,11,False,True,False,True
+S2025,PS,HPMS anisotropic resintering,before,Pedelec,12,False,True,False,True
+S2025,PS,HPMS anisotropic resintering,before,Pedelec,13,True,True,False,True
+S2025,PS,HPMS anisotropic resintering,before,Pedelec,14,True,True,False,True
+S2025,PS,HPMS anisotropic resintering,before,Pedelec,15,True,True,False,True
+S2025,PS,HPMS anisotropic resintering,after,Pedelec,0,False,True,False,True
+S2025,PS,HPMS anisotropic resintering,after,Pedelec,1,False,True,False,True
+S2025,PS,HPMS anisotropic resintering,after,Pedelec,2,False,True,False,True
+S2025,PS,HPMS anisotropic resintering,after,Pedelec,3,False,True,False,True
+S2025,PS,HPMS anisotropic resintering,after,Pedelec,4,False,True,False,True
+S2025,PS,HPMS anisotropic resintering,after,Pedelec,5,False,True,False,True
+S2025,PS,HPMS anisotropic resintering,after,Pedelec,6,False,True,False,True
+S2025,PS,HPMS anisotropic resintering,after,Pedelec,7,False,True,False,True
+S2025,PS,HPMS anisotropic resintering,after,Pedelec,8,False,True,False,True
+S2025,PS,HPMS anisotropic resintering,after,Pedelec,9,False,True,False,True
+S2025,PS,HPMS anisotropic resintering,after,Pedelec,10,False,True,False,True
+S2025,PS,HPMS anisotropic resintering,after,Pedelec,11,False,True,False,True
+S2025,PS,HPMS anisotropic resintering,after,Pedelec,12,False,True,False,True
+S2025,PS,HPMS anisotropic resintering,after,Pedelec,13,False,True,False,True
+S2025,PS,HPMS anisotropic resintering,after,Pedelec,14,False,True,False,True
+S2025,PS,HPMS anisotropic resintering,after,Pedelec,15,False,True,False,True
+S2025,PS,HPMS anisotropic resintering,before,eScooter,0,True,True,False,True
+S2025,PS,HPMS anisotropic resintering,before,eScooter,1,True,True,False,True
+S2025,PS,HPMS anisotropic resintering,before,eScooter,2,True,True,False,True
+S2025,PS,HPMS anisotropic resintering,before,eScooter,3,True,True,False,True
+S2025,PS,HPMS anisotropic resintering,before,eScooter,4,True,True,False,True
+S2025,PS,HPMS anisotropic resintering,before,eScooter,5,True,True,False,True
+S2025,PS,HPMS anisotropic resintering,before,eScooter,6,True,True,False,True
+S2025,PS,HPMS anisotropic resintering,before,eScooter,7,True,True,False,True
+S2025,PS,HPMS anisotropic resintering,before,eScooter,8,True,True,False,True
+S2025,PS,HPMS anisotropic resintering,before,eScooter,9,True,True,False,True
+S2025,PS,HPMS anisotropic resintering,before,eScooter,10,True,True,False,True
+S2025,PS,HPMS anisotropic resintering,before,eScooter,11,True,True,False,True
+S2025,PS,HPMS anisotropic resintering,before,eScooter,12,True,True,False,True
+S2025,PS,HPMS anisotropic resintering,before,eScooter,13,True,True,False,True
+S2025,PS,HPMS anisotropic resintering,before,eScooter,14,True,True,False,True
+S2025,PS,HPMS anisotropic resintering,before,eScooter,15,True,True,False,True
+S2025,PS,HPMS anisotropic resintering,after,eScooter,0,False,True,False,True
+S2025,PS,HPMS anisotropic resintering,after,eScooter,1,False,True,False,True
+S2025,PS,HPMS anisotropic resintering,after,eScooter,2,False,True,False,True
+S2025,PS,HPMS anisotropic resintering,after,eScooter,3,False,True,False,True
+S2025,PS,HPMS anisotropic resintering,after,eScooter,4,False,True,False,True
+S2025,PS,HPMS anisotropic resintering,after,eScooter,5,False,True,False,True
+S2025,PS,HPMS anisotropic resintering,after,eScooter,6,False,True,False,True
+S2025,PS,HPMS anisotropic resintering,after,eScooter,7,False,True,False,True
+S2025,PS,HPMS anisotropic resintering,after,eScooter,8,False,True,False,True
+S2025,PS,HPMS anisotropic resintering,after,eScooter,9,False,True,False,True
+S2025,PS,HPMS anisotropic resintering,after,eScooter,10,False,True,False,True
+S2025,PS,HPMS anisotropic resintering,after,eScooter,11,False,True,False,True
+S2025,PS,HPMS anisotropic resintering,after,eScooter,12,False,True,False,True
+S2025,PS,HPMS anisotropic resintering,after,eScooter,13,False,True,False,True
+S2025,PS,HPMS anisotropic resintering,after,eScooter,14,False,True,False,True
+S2025,PS,HPMS anisotropic resintering,after,eScooter,15,False,True,False,True
+S2025,PS,HPMS anisotropic resintering,before,Hoverboard,0,True,True,False,True
+S2025,PS,HPMS anisotropic resintering,before,Hoverboard,1,True,True,False,True
+S2025,PS,HPMS anisotropic resintering,before,Hoverboard,2,True,True,False,True
+S2025,PS,HPMS anisotropic resintering,before,Hoverboard,3,True,True,False,True
+S2025,PS,HPMS anisotropic resintering,before,Hoverboard,4,True,True,False,True
+S2025,PS,HPMS anisotropic resintering,before,Hoverboard,5,True,True,False,True
+S2025,PS,HPMS anisotropic resintering,before,Hoverboard,6,True,True,False,True
+S2025,PS,HPMS anisotropic resintering,before,Hoverboard,7,True,True,False,True
+S2025,PS,HPMS anisotropic resintering,before,Hoverboard,8,True,True,False,True
+S2025,PS,HPMS anisotropic resintering,before,Hoverboard,9,True,True,False,True
+S2025,PS,HPMS anisotropic resintering,before,Hoverboard,10,True,True,False,True
+S2025,PS,HPMS anisotropic resintering,before,Hoverboard,11,True,True,False,True
+S2025,PS,HPMS anisotropic resintering,before,Hoverboard,12,True,True,False,True
+S2025,PS,HPMS anisotropic resintering,before,Hoverboard,13,True,True,False,True
+S2025,PS,HPMS anisotropic resintering,before,Hoverboard,14,True,True,False,True
+S2025,PS,HPMS anisotropic resintering,before,Hoverboard,15,True,True,False,True
+S2025,PS,HPMS anisotropic resintering,after,Hoverboard,0,True,True,False,True
+S2025,PS,HPMS anisotropic resintering,after,Hoverboard,1,True,True,False,True
+S2025,PS,HPMS anisotropic resintering,after,Hoverboard,2,True,True,False,True
+S2025,PS,HPMS anisotropic resintering,after,Hoverboard,3,True,True,False,True
+S2025,PS,HPMS anisotropic resintering,after,Hoverboard,4,True,True,False,True
+S2025,PS,HPMS anisotropic resintering,after,Hoverboard,5,True,True,False,True
+S2025,PS,HPMS anisotropic resintering,after,Hoverboard,6,True,True,False,True
+S2025,PS,HPMS anisotropic resintering,after,Hoverboard,7,True,True,False,True
+S2025,PS,HPMS anisotropic resintering,after,Hoverboard,8,True,True,False,True
+S2025,PS,HPMS anisotropic resintering,after,Hoverboard,9,True,True,False,True
+S2025,PS,HPMS anisotropic resintering,after,Hoverboard,10,True,True,False,True
+S2025,PS,HPMS anisotropic resintering,after,Hoverboard,11,True,True,False,True
+S2025,PS,HPMS anisotropic resintering,after,Hoverboard,12,True,True,False,True
+S2025,PS,HPMS anisotropic resintering,after,Hoverboard,13,True,True,False,True
+S2025,PS,HPMS anisotropic resintering,after,Hoverboard,14,True,True,False,True
+S2025,PS,HPMS anisotropic resintering,after,Hoverboard,15,True,True,False,True
+S2025,IM,HPMS anisotropic resintering,before,Pedelec,0,False,True,False,True
+S2025,IM,HPMS anisotropic resintering,before,Pedelec,1,False,True,False,True
+S2025,IM,HPMS anisotropic resintering,before,Pedelec,2,False,True,False,True
+S2025,IM,HPMS anisotropic resintering,before,Pedelec,3,False,True,False,True
+S2025,IM,HPMS anisotropic resintering,before,Pedelec,4,False,True,False,True
+S2025,IM,HPMS anisotropic resintering,before,Pedelec,5,False,True,False,True
+S2025,IM,HPMS anisotropic resintering,before,Pedelec,6,False,True,False,True
+S2025,IM,HPMS anisotropic resintering,before,Pedelec,7,False,True,False,True
+S2025,IM,HPMS anisotropic resintering,before,Pedelec,8,False,True,False,True
+S2025,IM,HPMS anisotropic resintering,before,Pedelec,9,False,True,False,True
+S2025,IM,HPMS anisotropic resintering,before,Pedelec,10,False,True,False,True
+S2025,IM,HPMS anisotropic resintering,before,Pedelec,11,False,True,False,True
+S2025,IM,HPMS anisotropic resintering,before,Pedelec,12,False,True,False,True
+S2025,IM,HPMS anisotropic resintering,before,Pedelec,13,False,True,False,True
+S2025,IM,HPMS anisotropic resintering,before,Pedelec,14,False,True,False,True
+S2025,IM,HPMS anisotropic resintering,before,Pedelec,15,False,True,False,True
+S2025,IM,HPMS anisotropic resintering,after,Pedelec,0,False,True,False,True
+S2025,IM,HPMS anisotropic resintering,after,Pedelec,1,False,True,False,True
+S2025,IM,HPMS anisotropic resintering,after,Pedelec,2,False,True,False,True
+S2025,IM,HPMS anisotropic resintering,after,Pedelec,3,False,True,False,True
+S2025,IM,HPMS anisotropic resintering,after,Pedelec,4,False,True,False,True
+S2025,IM,HPMS anisotropic resintering,after,Pedelec,5,False,True,False,True
+S2025,IM,HPMS anisotropic resintering,after,Pedelec,6,False,True,False,True
+S2025,IM,HPMS anisotropic resintering,after,Pedelec,7,False,True,False,True
+S2025,IM,HPMS anisotropic resintering,after,Pedelec,8,False,True,False,True
+S2025,IM,HPMS anisotropic resintering,after,Pedelec,9,False,True,False,True
+S2025,IM,HPMS anisotropic resintering,after,Pedelec,10,False,True,False,True
+S2025,IM,HPMS anisotropic resintering,after,Pedelec,11,False,True,False,True
+S2025,IM,HPMS anisotropic resintering,after,Pedelec,12,False,True,False,True
+S2025,IM,HPMS anisotropic resintering,after,Pedelec,13,False,True,False,True
+S2025,IM,HPMS anisotropic resintering,after,Pedelec,14,False,True,False,True
+S2025,IM,HPMS anisotropic resintering,after,Pedelec,15,False,True,False,True
+S2025,IM,HPMS anisotropic resintering,before,eScooter,0,False,True,False,True
+S2025,IM,HPMS anisotropic resintering,before,eScooter,1,False,True,False,True
+S2025,IM,HPMS anisotropic resintering,before,eScooter,2,False,True,False,True
+S2025,IM,HPMS anisotropic resintering,before,eScooter,3,False,True,False,True
+S2025,IM,HPMS anisotropic resintering,before,eScooter,4,False,True,False,True
+S2025,IM,HPMS anisotropic resintering,before,eScooter,5,False,True,False,True
+S2025,IM,HPMS anisotropic resintering,before,eScooter,6,False,True,False,True
+S2025,IM,HPMS anisotropic resintering,before,eScooter,7,False,True,False,True
+S2025,IM,HPMS anisotropic resintering,before,eScooter,8,False,True,False,True
+S2025,IM,HPMS anisotropic resintering,before,eScooter,9,False,True,False,True
+S2025,IM,HPMS anisotropic resintering,before,eScooter,10,True,True,False,True
+S2025,IM,HPMS anisotropic resintering,before,eScooter,11,True,True,False,True
+S2025,IM,HPMS anisotropic resintering,before,eScooter,12,True,True,False,True
+S2025,IM,HPMS anisotropic resintering,before,eScooter,13,True,True,False,True
+S2025,IM,HPMS anisotropic resintering,before,eScooter,14,True,True,False,True
+S2025,IM,HPMS anisotropic resintering,before,eScooter,15,True,True,False,True
+S2025,IM,HPMS anisotropic resintering,after,eScooter,0,False,True,False,True
+S2025,IM,HPMS anisotropic resintering,after,eScooter,1,False,True,False,True
+S2025,IM,HPMS anisotropic resintering,after,eScooter,2,False,True,False,True
+S2025,IM,HPMS anisotropic resintering,after,eScooter,3,False,True,False,True
+S2025,IM,HPMS anisotropic resintering,after,eScooter,4,False,True,False,True
+S2025,IM,HPMS anisotropic resintering,after,eScooter,5,False,True,False,True
+S2025,IM,HPMS anisotropic resintering,after,eScooter,6,False,True,False,True
+S2025,IM,HPMS anisotropic resintering,after,eScooter,7,False,True,False,True
+S2025,IM,HPMS anisotropic resintering,after,eScooter,8,False,True,False,True
+S2025,IM,HPMS anisotropic resintering,after,eScooter,9,False,True,False,True
+S2025,IM,HPMS anisotropic resintering,after,eScooter,10,False,True,False,True
+S2025,IM,HPMS anisotropic resintering,after,eScooter,11,False,True,False,True
+S2025,IM,HPMS anisotropic resintering,after,eScooter,12,True,True,False,True
+S2025,IM,HPMS anisotropic resintering,after,eScooter,13,True,True,False,True
+S2025,IM,HPMS anisotropic resintering,after,eScooter,14,True,True,False,True
+S2025,IM,HPMS anisotropic resintering,after,eScooter,15,True,True,False,True
+S2025,IM,HPMS anisotropic resintering,before,Hoverboard,0,True,True,False,True
+S2025,IM,HPMS anisotropic resintering,before,Hoverboard,1,True,True,False,True
+S2025,IM,HPMS anisotropic resintering,before,Hoverboard,2,True,True,False,True
+S2025,IM,HPMS anisotropic resintering,before,Hoverboard,3,True,True,False,True
+S2025,IM,HPMS anisotropic resintering,before,Hoverboard,4,True,True,False,True
+S2025,IM,HPMS anisotropic resintering,before,Hoverboard,5,True,True,False,True
+S2025,IM,HPMS anisotropic resintering,before,Hoverboard,6,True,True,False,True
+S2025,IM,HPMS anisotropic resintering,before,Hoverboard,7,True,True,False,True
+S2025,IM,HPMS anisotropic resintering,before,Hoverboard,8,True,True,False,True
+S2025,IM,HPMS anisotropic resintering,before,Hoverboard,9,True,True,False,True
+S2025,IM,HPMS anisotropic resintering,before,Hoverboard,10,True,True,False,True
+S2025,IM,HPMS anisotropic resintering,before,Hoverboard,11,True,True,False,True
+S2025,IM,HPMS anisotropic resintering,before,Hoverboard,12,True,True,False,True
+S2025,IM,HPMS anisotropic resintering,before,Hoverboard,13,True,True,False,True
+S2025,IM,HPMS anisotropic resintering,before,Hoverboard,14,True,True,False,True
+S2025,IM,HPMS anisotropic resintering,before,Hoverboard,15,True,True,False,True
+S2025,IM,HPMS anisotropic resintering,after,Hoverboard,0,True,True,False,True
+S2025,IM,HPMS anisotropic resintering,after,Hoverboard,1,True,True,False,True
+S2025,IM,HPMS anisotropic resintering,after,Hoverboard,2,True,True,False,True
+S2025,IM,HPMS anisotropic resintering,after,Hoverboard,3,True,True,False,True
+S2025,IM,HPMS anisotropic resintering,after,Hoverboard,4,True,True,False,True
+S2025,IM,HPMS anisotropic resintering,after,Hoverboard,5,True,True,False,True
+S2025,IM,HPMS anisotropic resintering,after,Hoverboard,6,True,True,False,True
+S2025,IM,HPMS anisotropic resintering,after,Hoverboard,7,True,True,False,True
+S2025,IM,HPMS anisotropic resintering,after,Hoverboard,8,True,True,False,True
+S2025,IM,HPMS anisotropic resintering,after,Hoverboard,9,True,True,False,True
+S2025,IM,HPMS anisotropic resintering,after,Hoverboard,10,True,True,False,True
+S2025,IM,HPMS anisotropic resintering,after,Hoverboard,11,True,True,False,True
+S2025,IM,HPMS anisotropic resintering,after,Hoverboard,12,True,True,False,True
+S2025,IM,HPMS anisotropic resintering,after,Hoverboard,13,True,True,False,True
+S2025,IM,HPMS anisotropic resintering,after,Hoverboard,14,True,True,False,True
+S2025,IM,HPMS anisotropic resintering,after,Hoverboard,15,True,True,False,True
+S2025,TM,HPMS anisotropic resintering,before,Pedelec,0,False,True,False,False
+S2025,TM,HPMS anisotropic resintering,before,Pedelec,1,False,True,False,False
+S2025,TM,HPMS anisotropic resintering,before,Pedelec,2,False,True,False,False
+S2025,TM,HPMS anisotropic resintering,before,Pedelec,3,False,True,False,False
+S2025,TM,HPMS anisotropic resintering,before,Pedelec,4,False,True,False,False
+S2025,TM,HPMS anisotropic resintering,before,Pedelec,5,False,True,False,False
+S2025,TM,HPMS anisotropic resintering,before,Pedelec,6,False,True,False,False
+S2025,TM,HPMS anisotropic resintering,before,Pedelec,7,False,True,False,False
+S2025,TM,HPMS anisotropic resintering,before,Pedelec,8,False,True,False,False
+S2025,TM,HPMS anisotropic resintering,before,Pedelec,9,False,True,False,False
+S2025,TM,HPMS anisotropic resintering,before,Pedelec,10,False,True,False,False
+S2025,TM,HPMS anisotropic resintering,before,Pedelec,11,False,True,False,False
+S2025,TM,HPMS anisotropic resintering,before,Pedelec,12,False,True,False,False
+S2025,TM,HPMS anisotropic resintering,before,Pedelec,13,False,True,False,False
+S2025,TM,HPMS anisotropic resintering,before,Pedelec,14,False,True,False,False
+S2025,TM,HPMS anisotropic resintering,before,Pedelec,15,False,True,False,False
+S2025,TM,HPMS anisotropic resintering,after,Pedelec,0,False,True,False,False
+S2025,TM,HPMS anisotropic resintering,after,Pedelec,1,False,True,False,False
+S2025,TM,HPMS anisotropic resintering,after,Pedelec,2,False,True,False,False
+S2025,TM,HPMS anisotropic resintering,after,Pedelec,3,False,True,False,False
+S2025,TM,HPMS anisotropic resintering,after,Pedelec,4,False,True,False,False
+S2025,TM,HPMS anisotropic resintering,after,Pedelec,5,False,True,False,False
+S2025,TM,HPMS anisotropic resintering,after,Pedelec,6,False,True,False,False
+S2025,TM,HPMS anisotropic resintering,after,Pedelec,7,False,True,False,False
+S2025,TM,HPMS anisotropic resintering,after,Pedelec,8,False,True,False,False
+S2025,TM,HPMS anisotropic resintering,after,Pedelec,9,False,True,False,False
+S2025,TM,HPMS anisotropic resintering,after,Pedelec,10,False,True,False,False
+S2025,TM,HPMS anisotropic resintering,after,Pedelec,11,False,True,False,False
+S2025,TM,HPMS anisotropic resintering,after,Pedelec,12,False,True,False,False
+S2025,TM,HPMS anisotropic resintering,after,Pedelec,13,False,True,False,False
+S2025,TM,HPMS anisotropic resintering,after,Pedelec,14,False,True,False,False
+S2025,TM,HPMS anisotropic resintering,after,Pedelec,15,False,True,False,False
+S2025,TM,HPMS anisotropic resintering,before,eScooter,0,False,True,False,False
+S2025,TM,HPMS anisotropic resintering,before,eScooter,1,False,True,False,False
+S2025,TM,HPMS anisotropic resintering,before,eScooter,2,False,True,False,False
+S2025,TM,HPMS anisotropic resintering,before,eScooter,3,False,True,False,False
+S2025,TM,HPMS anisotropic resintering,before,eScooter,4,False,True,False,False
+S2025,TM,HPMS anisotropic resintering,before,eScooter,5,False,True,False,False
+S2025,TM,HPMS anisotropic resintering,before,eScooter,6,False,True,False,False
+S2025,TM,HPMS anisotropic resintering,before,eScooter,7,False,True,False,False
+S2025,TM,HPMS anisotropic resintering,before,eScooter,8,False,True,False,False
+S2025,TM,HPMS anisotropic resintering,before,eScooter,9,False,True,False,False
+S2025,TM,HPMS anisotropic resintering,before,eScooter,10,False,True,False,False
+S2025,TM,HPMS anisotropic resintering,before,eScooter,11,True,True,False,False
+S2025,TM,HPMS anisotropic resintering,before,eScooter,12,True,True,False,False
+S2025,TM,HPMS anisotropic resintering,before,eScooter,13,True,True,False,False
+S2025,TM,HPMS anisotropic resintering,before,eScooter,14,True,True,False,False
+S2025,TM,HPMS anisotropic resintering,before,eScooter,15,True,True,False,False
+S2025,TM,HPMS anisotropic resintering,after,eScooter,0,False,True,False,False
+S2025,TM,HPMS anisotropic resintering,after,eScooter,1,False,True,False,False
+S2025,TM,HPMS anisotropic resintering,after,eScooter,2,False,True,False,False
+S2025,TM,HPMS anisotropic resintering,after,eScooter,3,False,True,False,False
+S2025,TM,HPMS anisotropic resintering,after,eScooter,4,False,True,False,False
+S2025,TM,HPMS anisotropic resintering,after,eScooter,5,False,True,False,False
+S2025,TM,HPMS anisotropic resintering,after,eScooter,6,False,True,False,False
+S2025,TM,HPMS anisotropic resintering,after,eScooter,7,False,True,False,False
+S2025,TM,HPMS anisotropic resintering,after,eScooter,8,False,True,False,False
+S2025,TM,HPMS anisotropic resintering,after,eScooter,9,False,True,False,False
+S2025,TM,HPMS anisotropic resintering,after,eScooter,10,False,True,False,False
+S2025,TM,HPMS anisotropic resintering,after,eScooter,11,False,True,False,False
+S2025,TM,HPMS anisotropic resintering,after,eScooter,12,False,True,False,False
+S2025,TM,HPMS anisotropic resintering,after,eScooter,13,False,True,False,False
+S2025,TM,HPMS anisotropic resintering,after,eScooter,14,False,True,False,False
+S2025,TM,HPMS anisotropic resintering,after,eScooter,15,False,True,False,False
+S2025,TM,HPMS anisotropic resintering,before,Hoverboard,0,True,True,False,False
+S2025,TM,HPMS anisotropic resintering,before,Hoverboard,1,True,True,False,False
+S2025,TM,HPMS anisotropic resintering,before,Hoverboard,2,True,True,False,False
+S2025,TM,HPMS anisotropic resintering,before,Hoverboard,3,True,True,False,False
+S2025,TM,HPMS anisotropic resintering,before,Hoverboard,4,True,True,False,False
+S2025,TM,HPMS anisotropic resintering,before,Hoverboard,5,True,True,False,False
+S2025,TM,HPMS anisotropic resintering,before,Hoverboard,6,True,True,False,False
+S2025,TM,HPMS anisotropic resintering,before,Hoverboard,7,True,True,False,False
+S2025,TM,HPMS anisotropic resintering,before,Hoverboard,8,True,True,False,False
+S2025,TM,HPMS anisotropic resintering,before,Hoverboard,9,True,True,False,False
+S2025,TM,HPMS anisotropic resintering,before,Hoverboard,10,True,True,False,False
+S2025,TM,HPMS anisotropic resintering,before,Hoverboard,11,True,True,False,False
+S2025,TM,HPMS anisotropic resintering,before,Hoverboard,12,True,True,False,False
+S2025,TM,HPMS anisotropic resintering,before,Hoverboard,13,True,True,False,False
+S2025,TM,HPMS anisotropic resintering,before,Hoverboard,14,True,True,False,False
+S2025,TM,HPMS anisotropic resintering,before,Hoverboard,15,True,True,False,False
+S2025,TM,HPMS anisotropic resintering,after,Hoverboard,0,False,True,False,False
+S2025,TM,HPMS anisotropic resintering,after,Hoverboard,1,False,True,False,False
+S2025,TM,HPMS anisotropic resintering,after,Hoverboard,2,False,True,False,False
+S2025,TM,HPMS anisotropic resintering,after,Hoverboard,3,False,True,False,False
+S2025,TM,HPMS anisotropic resintering,after,Hoverboard,4,False,True,False,False
+S2025,TM,HPMS anisotropic resintering,after,Hoverboard,5,True,True,False,False
+S2025,TM,HPMS anisotropic resintering,after,Hoverboard,6,True,True,False,False
+S2025,TM,HPMS anisotropic resintering,after,Hoverboard,7,True,True,False,False
+S2025,TM,HPMS anisotropic resintering,after,Hoverboard,8,True,True,False,False
+S2025,TM,HPMS anisotropic resintering,after,Hoverboard,9,True,True,False,False
+S2025,TM,HPMS anisotropic resintering,after,Hoverboard,10,True,True,False,False
+S2025,TM,HPMS anisotropic resintering,after,Hoverboard,11,True,True,False,False
+S2025,TM,HPMS anisotropic resintering,after,Hoverboard,12,True,True,False,False
+S2025,TM,HPMS anisotropic resintering,after,Hoverboard,13,True,True,False,False
+S2025,TM,HPMS anisotropic resintering,after,Hoverboard,14,True,True,False,False
+S2025,TM,HPMS anisotropic resintering,after,Hoverboard,15,True,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,before,Pedelec,0,False,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,before,Pedelec,1,False,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,before,Pedelec,2,False,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,before,Pedelec,3,False,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,before,Pedelec,4,False,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,before,Pedelec,5,True,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,before,Pedelec,6,True,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,before,Pedelec,7,True,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,before,Pedelec,8,True,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,before,Pedelec,9,True,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,before,Pedelec,10,True,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,before,Pedelec,11,True,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,before,Pedelec,12,True,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,before,Pedelec,13,True,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,before,Pedelec,14,True,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,before,Pedelec,15,True,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,after,Pedelec,0,False,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,after,Pedelec,1,False,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,after,Pedelec,2,False,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,after,Pedelec,3,False,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,after,Pedelec,4,False,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,after,Pedelec,5,False,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,after,Pedelec,6,False,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,after,Pedelec,7,False,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,after,Pedelec,8,False,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,after,Pedelec,9,False,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,after,Pedelec,10,False,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,after,Pedelec,11,False,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,after,Pedelec,12,False,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,after,Pedelec,13,False,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,after,Pedelec,14,False,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,after,Pedelec,15,False,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,before,eScooter,0,True,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,before,eScooter,1,True,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,before,eScooter,2,True,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,before,eScooter,3,True,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,before,eScooter,4,True,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,before,eScooter,5,True,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,before,eScooter,6,True,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,before,eScooter,7,True,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,before,eScooter,8,True,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,before,eScooter,9,True,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,before,eScooter,10,True,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,before,eScooter,11,True,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,before,eScooter,12,True,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,before,eScooter,13,True,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,before,eScooter,14,True,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,before,eScooter,15,True,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,after,eScooter,0,False,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,after,eScooter,1,False,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,after,eScooter,2,False,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,after,eScooter,3,False,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,after,eScooter,4,False,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,after,eScooter,5,False,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,after,eScooter,6,False,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,after,eScooter,7,False,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,after,eScooter,8,False,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,after,eScooter,9,False,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,after,eScooter,10,False,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,after,eScooter,11,False,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,after,eScooter,12,False,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,after,eScooter,13,False,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,after,eScooter,14,False,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,after,eScooter,15,False,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,before,Hoverboard,0,True,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,before,Hoverboard,1,True,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,before,Hoverboard,2,True,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,before,Hoverboard,3,True,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,before,Hoverboard,4,True,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,before,Hoverboard,5,True,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,before,Hoverboard,6,True,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,before,Hoverboard,7,True,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,before,Hoverboard,8,True,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,before,Hoverboard,9,True,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,before,Hoverboard,10,True,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,before,Hoverboard,11,True,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,before,Hoverboard,12,True,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,before,Hoverboard,13,True,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,before,Hoverboard,14,True,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,before,Hoverboard,15,True,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,after,Hoverboard,0,False,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,after,Hoverboard,1,False,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,after,Hoverboard,2,False,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,after,Hoverboard,3,False,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,after,Hoverboard,4,False,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,after,Hoverboard,5,False,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,after,Hoverboard,6,False,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,after,Hoverboard,7,False,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,after,Hoverboard,8,False,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,after,Hoverboard,9,False,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,after,Hoverboard,10,False,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,after,Hoverboard,11,False,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,after,Hoverboard,12,False,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,after,Hoverboard,13,False,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,after,Hoverboard,14,False,True,False,False
+L2025,EM,HD20 without degassing SPS RM1,after,Hoverboard,15,False,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,before,Pedelec,0,False,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,before,Pedelec,1,False,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,before,Pedelec,2,False,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,before,Pedelec,3,False,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,before,Pedelec,4,False,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,before,Pedelec,5,True,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,before,Pedelec,6,True,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,before,Pedelec,7,True,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,before,Pedelec,8,True,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,before,Pedelec,9,True,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,before,Pedelec,10,True,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,before,Pedelec,11,True,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,before,Pedelec,12,True,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,before,Pedelec,13,True,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,before,Pedelec,14,True,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,before,Pedelec,15,True,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,after,Pedelec,0,False,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,after,Pedelec,1,False,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,after,Pedelec,2,False,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,after,Pedelec,3,False,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,after,Pedelec,4,False,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,after,Pedelec,5,False,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,after,Pedelec,6,False,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,after,Pedelec,7,False,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,after,Pedelec,8,False,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,after,Pedelec,9,False,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,after,Pedelec,10,False,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,after,Pedelec,11,False,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,after,Pedelec,12,False,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,after,Pedelec,13,False,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,after,Pedelec,14,False,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,after,Pedelec,15,False,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,before,eScooter,0,True,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,before,eScooter,1,True,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,before,eScooter,2,True,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,before,eScooter,3,True,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,before,eScooter,4,True,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,before,eScooter,5,True,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,before,eScooter,6,True,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,before,eScooter,7,True,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,before,eScooter,8,True,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,before,eScooter,9,True,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,before,eScooter,10,True,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,before,eScooter,11,True,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,before,eScooter,12,True,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,before,eScooter,13,True,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,before,eScooter,14,True,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,before,eScooter,15,True,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,after,eScooter,0,False,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,after,eScooter,1,False,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,after,eScooter,2,False,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,after,eScooter,3,False,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,after,eScooter,4,False,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,after,eScooter,5,False,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,after,eScooter,6,False,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,after,eScooter,7,False,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,after,eScooter,8,False,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,after,eScooter,9,False,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,after,eScooter,10,False,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,after,eScooter,11,False,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,after,eScooter,12,False,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,after,eScooter,13,False,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,after,eScooter,14,False,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,after,eScooter,15,False,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,before,Hoverboard,0,True,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,before,Hoverboard,1,True,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,before,Hoverboard,2,True,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,before,Hoverboard,3,True,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,before,Hoverboard,4,True,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,before,Hoverboard,5,True,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,before,Hoverboard,6,True,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,before,Hoverboard,7,True,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,before,Hoverboard,8,True,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,before,Hoverboard,9,True,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,before,Hoverboard,10,True,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,before,Hoverboard,11,True,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,before,Hoverboard,12,True,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,before,Hoverboard,13,True,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,before,Hoverboard,14,True,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,before,Hoverboard,15,True,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,after,Hoverboard,0,False,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,after,Hoverboard,1,False,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,after,Hoverboard,2,False,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,after,Hoverboard,3,False,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,after,Hoverboard,4,False,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,after,Hoverboard,5,False,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,after,Hoverboard,6,False,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,after,Hoverboard,7,False,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,after,Hoverboard,8,False,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,after,Hoverboard,9,False,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,after,Hoverboard,10,False,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,after,Hoverboard,11,False,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,after,Hoverboard,12,False,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,after,Hoverboard,13,False,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,after,Hoverboard,14,False,True,False,False
+L2025,EM,HD-D20 degassing SPS RM2,after,Hoverboard,15,False,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,before,Pedelec,0,False,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,before,Pedelec,1,False,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,before,Pedelec,2,False,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,before,Pedelec,3,False,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,before,Pedelec,4,False,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,before,Pedelec,5,True,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,before,Pedelec,6,True,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,before,Pedelec,7,True,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,before,Pedelec,8,True,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,before,Pedelec,9,True,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,before,Pedelec,10,True,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,before,Pedelec,11,True,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,before,Pedelec,12,True,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,before,Pedelec,13,True,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,before,Pedelec,14,True,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,before,Pedelec,15,True,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,after,Pedelec,0,False,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,after,Pedelec,1,False,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,after,Pedelec,2,False,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,after,Pedelec,3,False,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,after,Pedelec,4,False,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,after,Pedelec,5,False,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,after,Pedelec,6,False,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,after,Pedelec,7,False,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,after,Pedelec,8,False,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,after,Pedelec,9,False,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,after,Pedelec,10,False,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,after,Pedelec,11,False,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,after,Pedelec,12,False,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,after,Pedelec,13,False,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,after,Pedelec,14,False,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,after,Pedelec,15,False,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,before,eScooter,0,True,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,before,eScooter,1,True,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,before,eScooter,2,True,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,before,eScooter,3,True,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,before,eScooter,4,True,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,before,eScooter,5,True,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,before,eScooter,6,True,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,before,eScooter,7,True,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,before,eScooter,8,True,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,before,eScooter,9,True,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,before,eScooter,10,True,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,before,eScooter,11,True,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,before,eScooter,12,True,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,before,eScooter,13,True,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,before,eScooter,14,True,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,before,eScooter,15,True,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,after,eScooter,0,False,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,after,eScooter,1,False,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,after,eScooter,2,False,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,after,eScooter,3,False,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,after,eScooter,4,False,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,after,eScooter,5,False,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,after,eScooter,6,False,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,after,eScooter,7,False,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,after,eScooter,8,False,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,after,eScooter,9,False,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,after,eScooter,10,False,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,after,eScooter,11,False,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,after,eScooter,12,False,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,after,eScooter,13,False,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,after,eScooter,14,False,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,after,eScooter,15,False,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,before,Hoverboard,0,True,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,before,Hoverboard,1,True,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,before,Hoverboard,2,True,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,before,Hoverboard,3,True,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,before,Hoverboard,4,True,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,before,Hoverboard,5,True,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,before,Hoverboard,6,True,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,before,Hoverboard,7,True,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,before,Hoverboard,8,True,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,before,Hoverboard,9,True,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,before,Hoverboard,10,True,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,before,Hoverboard,11,True,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,before,Hoverboard,12,True,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,before,Hoverboard,13,True,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,before,Hoverboard,14,True,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,before,Hoverboard,15,True,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,after,Hoverboard,0,False,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,after,Hoverboard,1,False,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,after,Hoverboard,2,False,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,after,Hoverboard,3,False,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,after,Hoverboard,4,False,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,after,Hoverboard,5,False,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,after,Hoverboard,6,False,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,after,Hoverboard,7,False,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,after,Hoverboard,8,False,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,after,Hoverboard,9,False,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,after,Hoverboard,10,False,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,after,Hoverboard,11,False,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,after,Hoverboard,12,False,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,after,Hoverboard,13,False,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,after,Hoverboard,14,False,True,False,False
+L2025,EM,HD-D3 degassing SPS RM3,after,Hoverboard,15,False,True,False,False

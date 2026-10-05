@@ -1,0 +1,3 @@
+content_minimum,year,k,radius_km,spatial_case,hubs,weee_input_ceiling_t_y,wind_input_ceiling_t_y,declared_weee_intact_fraction,declared_wind_intact_fraction,target_intact_output_t_y,wind_function_retention_min_if_weee_equals_one,weee_function_retention_min_if_wind_equals_one,all_upper_intact_output_t_y
+0.2,2030,2,750,whole_cap,DEU;POL,667.3171430969662,201.17202534827945,0.25,0.5,250,0.8268616283180427,0.8956100640990083,267.4152984483813
+0.3,2030,2,750,whole_cap,DEU;POL,518.7888188498304,201.17202534827945,0.25,0.5,250,1.1960191291932163,1.1520216465506357,230.2832173865973

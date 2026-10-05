@@ -1,0 +1,2 @@
+# Preserve byte-level source/manifest hashes across Windows/Linux clones.
+* -text

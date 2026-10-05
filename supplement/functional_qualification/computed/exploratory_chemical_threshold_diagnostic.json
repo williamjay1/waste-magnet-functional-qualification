@@ -1,0 +1,13 @@
+{
+  "exploratory": true,
+  "reference": "Hoverboard point triple",
+  "development_source_lineages": 6,
+  "development_perfect_cutoff_lower_exclusive_wt_pct": 27.910000000000004,
+  "development_perfect_cutoff_upper_inclusive_wt_pct": 28.189999999999998,
+  "frozen_midpoint_cutoff_wt_pct": 28.05,
+  "independent_parent_lineages": 1,
+  "independent_process_branches": 3,
+  "held_out_chemical_accepts": 3,
+  "held_out_reference_passes": 0,
+  "inference": "out-of-study chemical-sufficiency counterexample; not population predictive accuracy"
+}

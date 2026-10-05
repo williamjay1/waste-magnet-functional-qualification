@@ -1,0 +1,28 @@
+study,lineage,process,device,joint_reference_relaxation_needed_pct,endpoint
+S2025,MRI,HPMS anisotropic resintering,Pedelec,14.017991004497754,point specification sensitivity not statistical confidence
+S2025,MRI,HPMS anisotropic resintering,eScooter,8.092948717948723,point specification sensitivity not statistical confidence
+S2025,MRI,HPMS anisotropic resintering,Hoverboard,0.0,point specification sensitivity not statistical confidence
+S2025,PUMP,HPMS anisotropic resintering,Pedelec,15.988372093023251,point specification sensitivity not statistical confidence
+S2025,PUMP,HPMS anisotropic resintering,eScooter,2.400000000000002,point specification sensitivity not statistical confidence
+S2025,PUMP,HPMS anisotropic resintering,Hoverboard,0.0,point specification sensitivity not statistical confidence
+S2025,WIND,HPMS anisotropic resintering,Pedelec,24.709302325581394,point specification sensitivity not statistical confidence
+S2025,WIND,HPMS anisotropic resintering,eScooter,12.20338983050847,point specification sensitivity not statistical confidence
+S2025,WIND,HPMS anisotropic resintering,Hoverboard,0.0,point specification sensitivity not statistical confidence
+S2025,PS,HPMS anisotropic resintering,Pedelec,31.686046511627907,point specification sensitivity not statistical confidence
+S2025,PS,HPMS anisotropic resintering,eScooter,20.33898305084746,point specification sensitivity not statistical confidence
+S2025,PS,HPMS anisotropic resintering,Hoverboard,0.0,point specification sensitivity not statistical confidence
+S2025,IM,HPMS anisotropic resintering,Pedelec,23.83720930232558,point specification sensitivity not statistical confidence
+S2025,IM,HPMS anisotropic resintering,eScooter,11.186440677966104,point specification sensitivity not statistical confidence
+S2025,IM,HPMS anisotropic resintering,Hoverboard,0.0,point specification sensitivity not statistical confidence
+S2025,TM,HPMS anisotropic resintering,Pedelec,41.279069767441854,point specification sensitivity not statistical confidence
+S2025,TM,HPMS anisotropic resintering,eScooter,31.52542372881356,point specification sensitivity not statistical confidence
+S2025,TM,HPMS anisotropic resintering,Hoverboard,4.265402843601896,point specification sensitivity not statistical confidence
+L2025,EM,HD20 without degassing SPS RM1,Pedelec,99.84302325581396,point specification sensitivity not statistical confidence
+L2025,EM,HD20 without degassing SPS RM1,eScooter,99.81694915254238,point specification sensitivity not statistical confidence
+L2025,EM,HD20 without degassing SPS RM1,Hoverboard,99.74407582938389,point specification sensitivity not statistical confidence
+L2025,EM,HD-D20 degassing SPS RM2,Pedelec,75.44476744186046,point specification sensitivity not statistical confidence
+L2025,EM,HD-D20 degassing SPS RM2,eScooter,71.36610169491526,point specification sensitivity not statistical confidence
+L2025,EM,HD-D20 degassing SPS RM2,Hoverboard,59.96682464454977,point specification sensitivity not statistical confidence
+L2025,EM,HD-D3 degassing SPS RM3,Pedelec,76.42732558139535,point specification sensitivity not statistical confidence
+L2025,EM,HD-D3 degassing SPS RM3,eScooter,72.51186440677967,point specification sensitivity not statistical confidence
+L2025,EM,HD-D3 degassing SPS RM3,Hoverboard,61.56872037914691,point specification sensitivity not statistical confidence

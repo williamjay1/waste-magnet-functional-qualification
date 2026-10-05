@@ -1,0 +1,17 @@
+{
+  "source_slots": 6,
+  "required_endpoints": [
+    "U_Pedelec_EMF_evidence",
+    "P_eScooter_EMF_evidence",
+    "P_Hoverboard_material_reference"
+  ],
+  "chemistry20_only_uncertified_assignments": 120,
+  "full_component_reference_assignments": 0,
+  "full_recorded_endpoint_assignments": 3,
+  "full_endpoint_assignments_with_chemistry30": 0,
+  "full_endpoint_assignments_with_tre30": 0,
+  "maximum_reference_supported_endpoints": 2,
+  "maximum_recorded_evidence_endpoints": 3,
+  "units": "normalised source-candidate slots; not actual inventories or finished mass",
+  "meaning": "uncertified assignments are unsupported, not measured failures; EMF is not complete service"
+}

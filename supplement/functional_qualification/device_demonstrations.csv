@@ -1,0 +1,4 @@
+study,lineage,target_device,route,geometry_mm,magnet_pieces,temperature_C,maximum_speed_induced_EMF_change_pct,complete_service_qualification,locator
+S2025,MRI,Pedelec,U,38 x 9 x 3,14,22,0.9,not established,Table 8 section 2.5 Figure 9
+S2025,PUMP,eScooter,P,30 x 11 x 3,30,22,-0.7,not established,Table 8 section 2.5 Figure 9
+S2025,PUMP,Hoverboard,P,25 x 11 x 3,30,22,6.7,not established,Table 8 section 2.5 Figure 9

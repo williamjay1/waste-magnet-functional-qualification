@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+external_raw/
+artwork/
+regional_recomputed/
+reproduction_report.json
+supplement/functional_qualification/recomputed/
+supplement/data/country_geometry_caps.csv
+supplement/data/anchor_distances_km.csv
+supplement/data/geometry_reconstruction.json
+*.pdf
+*.tex
+*.tiff
+*.zip
+*.geojson

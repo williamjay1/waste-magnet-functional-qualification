@@ -1,0 +1,36 @@
+{
+  "status": "pass",
+  "independent_network_method": "exhaustive enumeration",
+  "source_rows": 2187,
+  "wind_rows": 81,
+  "comparisons": {
+    "robust_network_frontiers.csv": {
+      "rows": 162,
+      "max_absolute_gap_t_y": 3.637978807091713e-12
+    },
+    "element_constrained_network_capacity.csv": {
+      "rows": 108,
+      "max_absolute_gap_t_y": 2.2737367544323206e-13
+    },
+    "element_quality_network_joint_frontiers.csv": {
+      "rows": 1728,
+      "max_absolute_gap_t_y": 4.547473508864641e-13
+    }
+  },
+  "cut_capacity_lp_checks": 288,
+  "max_cut_lp_gap_t_y": 2.2737367544323206e-13,
+  "python": "3.12.10 (tags/v3.12.10:0cc8128, Apr  8 2025, 12:21:36) [MSC v.1943 64 bit (AMD64)]",
+  "numpy": "2.5.1",
+  "pandas": "3.0.5",
+  "scipy": "1.18.0",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "input_sha256": {
+    "anchor_distances_km.csv": "b624a4acb5d7f01da12a91c788afb921e9bcd6c8e7e850e31c5cdbc3d037d015",
+    "country_geometry_caps.csv": "22dd509486559491bd3cb014889edc8cfbab45473b505ab43c7be33927a5f1fe",
+    "weee_collection_elements_country_year.csv": "b4cbc776e18c141bd5a6a5c61f71f621f717eac7d6c14808e373b211d76f0f94",
+    "wind_collected_ndfeb_and_ree3.csv": "dfb564e4b8e248aeeaa8ecfc58aac25cd4f4846cbcedd409473dc91419785360",
+    "reference_results\\element_constrained_network_capacity.csv": "e573f1f0ba2a48bce78d0e824b429034a6d72d325c5df92ec8fc0c5c2e87c48c",
+    "reference_results\\element_quality_network_joint_frontiers.csv": "9dba78514118859fe34f6a9865adaa969a6cae131f3c2d6836bea1139390d3da",
+    "reference_results\\robust_network_frontiers.csv": "3712f3a94bcc65e9df14e5dea7116929b3f78ee263cc52c7094a23db1acc1f7f"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "weee_rows": 2187,
+  "wind_rows": 81,
+  "weee_categories_per_key": 6,
+  "weee_element_codes_per_key": 3,
+  "input_sha256": {
+    "WEEE_SF_cmp_version2_working.csv": "702dae726b725367ae341c21c3bf4c08501669e3a78bd052d91297b1e66b2e4b",
+    "CDW_WTB_RM_cmp_version20.csv": "7066106c2487ef2bc5449723cf0f47b8624cb86832935f207ec7b71f67515116"
+  },
+  "versions": {
+    "duckdb": "1.5.5",
+    "pandas": "3.0.5"
+  },
+  "interpretation": "source-model collection, not observed operating receipts",
+  "reference_comparison_after_extraction": {
+    "weee_max_gaps": {
+      "generic_pm_t_y": 9.094947017729282e-13,
+      "contained_Nd_t_y": 2.842170943040401e-14,
+      "contained_Pr_t_y": 8.881784197001252e-16,
+      "contained_Dy_t_y": 1.7763568394002505e-15,
+      "contained_ree3_t_y": 2.842170943040401e-14
+    },
+    "wind_max_gaps": {
+      "magnet_t_y": 9.094947017729282e-13,
+      "ree3_t_y": 2.2737367544323206e-13,
+      "ree3_fraction": 5.551115123125783e-17
+    }
+  }
+}
